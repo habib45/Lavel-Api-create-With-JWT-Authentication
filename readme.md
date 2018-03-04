@@ -1,3 +1,17 @@
+<p align="center"><b>JWT Authentication API with E-Mail Verification</b> </p>
+
+###JWT Authentication 
+In this example, you will know how to implement api authentication in Laravel 5.4 using JWT with example.
+This is very important to implement authentication in web application.
+JWT (JSON Web Token) is usually used to send information that can be trusted and verified by means of a digital signature.
+
+Now question is when should you use JSON Web Tokens ?
+This is very common scenario for all the web application where you need to set restriction over request, you allow user to access services, resources and interaction with the database with the help of security token and JSON Web Tokens are a best way to transfer information between parties in secure way.
+JWT allow these all feature to apply api authentication and normally used in HTTP Authorization headers.
+Using JWT is a good way to apply security on your RESTful API services that can be used to enter into your database.
+
+
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
